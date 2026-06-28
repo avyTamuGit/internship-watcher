@@ -1,37 +1,4 @@
 {
-"1519520562869702737": {
-"cid": "1514116414494216242",
-"ts": 1782352333.6344132,
-"job": {
-"id": "jobright:6a3c70d14d047136e0930d52",
-"company": "MBZUAI (Mohamed bin Zayed University of Artificial Intelligence)",
-"title": "Inference Optimization Intern \u2013 Performance Modeling",
-"url": "https://jobright.ai/jobs/info/6a3c70d14d047136e0930d52",
-"location": "Sunnyvale, CA"
-}
-},
-"1519520565864693943": {
-"cid": "1514116414494216242",
-"ts": 1782352334.302828,
-"job": {
-"id": "jobright:6a3c6e26982bb239f812fa02",
-"company": "NVIDIA",
-"title": "PhD Research Intern, System Software and I/O Architecture - Fall 2026",
-"url": "https://jobright.ai/jobs/info/6a3c6e26982bb239f812fa02",
-"location": "Santa Clara, CA"
-}
-},
-"1519520568905568398": {
-"cid": "1514113369701875764",
-"ts": 1782352335.1891022,
-"job": {
-"id": "jobright:6a3c59b2882f121f56a347b9",
-"company": "Stantec",
-"title": "Data Scientist Intern - Water (Fall 2026)",
-"url": "https://jobright.ai/jobs/info/6a3c59b2882f121f56a347b9",
-"location": "9797 Aero Drive, San Diego, CA, 92123, US"
-}
-},
 "1519586973482881105": {
 "cid": "1514116414494216242",
 "ts": 1782368167.373753,
@@ -1185,6 +1152,28 @@
 "title": "Data Science & Automation Internship",
 "url": "https://jobright.ai/jobs/info/6a4045f91afc66714d3c9d33",
 "location": "United States"
+}
+},
+"1520609100663099442": {
+"cid": "1514113369701875764",
+"ts": 1782611861.3736808,
+"job": {
+"id": "jobright:6a4062d9b526a24fc3130c69",
+"company": "Wall Street Quants",
+"title": "Quantitative Trader Intern",
+"url": "https://jobright.ai/jobs/info/6a4062d9b526a24fc3130c69",
+"location": "New York, NY"
+}
+},
+"1520609103750103150": {
+"cid": "1514113369701875764",
+"ts": 1782611861.9847195,
+"job": {
+"id": "jobright:6a0628236c07461fe171cece",
+"company": "Hitachi Rail",
+"title": "Business Analyst (Engineering) Intern (Fall 2026 / 8-12 months)",
+"url": "https://jobright.ai/jobs/info/6a0628236c07461fe171cece",
+"location": "Toronto, Ontario, Canada"
 }
 }
 }
