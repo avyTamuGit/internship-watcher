@@ -1142,5 +1142,27 @@
 "url": "https://jobright.ai/jobs/info/6a40ee34d528ac2915f97074",
 "location": "Indiana, United States"
 }
+},
+"1520805008797466765": {
+"cid": "1514113369701875764",
+"ts": 1782658569.3698847,
+"job": {
+"id": "jobright:6a410e849dd7f954cafe887c",
+"company": "Astera Labs",
+"title": "Firmware Engineer (Internship) - Vancouver",
+"url": "https://jobright.ai/jobs/info/6a410e849dd7f954cafe887c",
+"location": "Vancouver, Canada"
+}
+},
+"1520805011297403010": {
+"cid": "1514113369701875764",
+"ts": 1782658569.9563785,
+"job": {
+"id": "jobright:6a4117ccb526a24fc3131607",
+"company": "Ededge Learning",
+"title": "Data Analyst Training and Internship Program",
+"url": "https://jobright.ai/jobs/info/6a4117ccb526a24fc3131607",
+"location": "Canada"
+}
 }
 }
