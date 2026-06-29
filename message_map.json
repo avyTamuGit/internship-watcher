@@ -834,5 +834,49 @@
 "url": "https://jobright.ai/jobs/info/6a420b741afc66714d3cba0f",
 "location": "APAC - Remote"
 }
+},
+"1521142567465521193": {
+"cid": "1514116414494216242",
+"ts": 1782739049.7116647,
+"job": {
+"id": "jobright:6a4236a7d528ac2915f98a50",
+"company": "TikTok",
+"title": "Frontend Software Engineer Project Intern (Global CRM) - 2026 Start\uff08BS/MS\uff09",
+"url": "https://jobright.ai/jobs/info/6a4236a7d528ac2915f98a50",
+"location": "San Jose, CA"
+}
+},
+"1521142570250407977": {
+"cid": "1514113369701875764",
+"ts": 1782739050.302816,
+"job": {
+"id": "jobright:6a260d2dd46c0f7996089378",
+"company": "Netrio",
+"title": "Software Development Intern",
+"url": "https://jobright.ai/jobs/info/6a260d2dd46c0f7996089378",
+"location": "Buffalo, NY"
+}
+},
+"1521142572620316874": {
+"cid": "1514113369701875764",
+"ts": 1782739050.854004,
+"job": {
+"id": "jobright:6a4242171cc9cc2b12feb429",
+"company": "SkipQ",
+"title": "Internship-Quality Assurance",
+"url": "https://jobright.ai/jobs/info/6a4242171cc9cc2b12feb429",
+"location": "United States"
+}
+},
+"1521142575048691802": {
+"cid": "1514113369701875764",
+"ts": 1782739051.4171286,
+"job": {
+"id": "jobright:6a42233ab526a24fc313271e",
+"company": "LUNARTECH",
+"title": "Software Developer Internship",
+"url": "https://jobright.ai/jobs/info/6a42233ab526a24fc313271e",
+"location": "United States"
+}
 }
 }
