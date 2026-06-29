@@ -1,147 +1,4 @@
 {
-"1519926319461306519": {
-"cid": "1514116414494216242",
-"ts": 1782449073.5971887,
-"job": {
-"id": "jobright:6a3dca3078237a036d5e2c09",
-"company": "TikTok",
-"title": "Software Engineer Intern (Ads Interface and Platform) - 2026 Summer (BS/MS)",
-"url": "https://jobright.ai/jobs/info/6a3dca3078237a036d5e2c09",
-"location": "San Jose"
-}
-},
-"1519926322275811408": {
-"cid": "1514116414494216242",
-"ts": 1782449074.1795235,
-"job": {
-"id": "jobright:6a3dc2bd882f121f56a38cba",
-"company": "Cerebras",
-"title": "Software Engineer Internship - Sunnyvale",
-"url": "https://jobright.ai/jobs/info/6a3dc2bd882f121f56a38cba",
-"location": "Sunnyvale, CA"
-}
-},
-"1519926324775620619": {
-"cid": "1514113369701875764",
-"ts": 1782449074.7753592,
-"job": {
-"id": "jobright:6a3de34e78237a036d5e2feb",
-"company": "SPS Commerce",
-"title": "Software Engineer Intern",
-"url": "https://jobright.ai/jobs/info/6a3de34e78237a036d5e2feb",
-"location": "Brampton, Ontario, Canada"
-}
-},
-"1519926327107391629": {
-"cid": "1514113369701875764",
-"ts": 1782449075.3650162,
-"job": {
-"id": "jobright:6a3dc6ce4d047136e0934f0e",
-"company": "Parsec Education",
-"title": "Junior Software Engineer Intern",
-"url": "https://jobright.ai/jobs/info/6a3dc6ce4d047136e0934f0e",
-"location": "Fresno, CA"
-}
-},
-"1519926329745608755": {
-"cid": "1514113369701875764",
-"ts": 1782449075.9446485,
-"job": {
-"id": "jobright:6a3dc1fad261407de9801c91",
-"company": "Isuzu Technical Center of America, Inc",
-"title": "Advanced Engineering & Research Intern",
-"url": "https://jobright.ai/jobs/info/6a3dc1fad261407de9801c91",
-"location": "Plymouth, MI"
-}
-},
-"1519926332207792309": {
-"cid": "1514113369701875764",
-"ts": 1782449076.5500998,
-"job": {
-"id": "jobright:6a3db85cd261407de9801b64",
-"company": "Digy4",
-"title": "Full stack and AI Intern - Canada GTA",
-"url": "https://jobright.ai/jobs/info/6a3db85cd261407de9801b64",
-"location": "Greater Toronto Area, Canada"
-}
-},
-"1519926334288167024": {
-"cid": "1514113369701875764",
-"ts": 1782449077.128626,
-"job": {
-"id": "jobright:6a3dad3a78237a036d5e271a",
-"company": "Layton Sports Cards",
-"title": "Software Development Intern",
-"url": "https://jobright.ai/jobs/info/6a3dad3a78237a036d5e271a",
-"location": "Apopka, FL"
-}
-},
-"1519926337152880781": {
-"cid": "1514113369701875764",
-"ts": 1782449077.7178383,
-"job": {
-"id": "jobright:6a28627d7061b51a3a5f55e3",
-"company": "Medpace",
-"title": "Clinical Informatics Intern - Spring 2027",
-"url": "https://jobright.ai/jobs/info/6a28627d7061b51a3a5f55e3",
-"location": "Cincinnati, OH"
-}
-},
-"1519926339715731616": {
-"cid": "1514113369701875764",
-"ts": 1782449078.3819487,
-"job": {
-"id": "jobright:6a3c1414882f121f56a3336f",
-"company": "Panels",
-"title": "Data Operations Intern",
-"url": "https://jobright.ai/jobs/info/6a3c1414882f121f56a3336f",
-"location": "San Francisco, CA"
-}
-},
-"1519981292924698644": {
-"cid": "1514116414494216242",
-"ts": 1782462180.299756,
-"job": {
-"id": "jobright:6a3e0323122f340d29cf287b",
-"company": "ByteDance",
-"title": "Research Intern (AML) - 2026 Start (PhD)",
-"url": "https://jobright.ai/jobs/info/6a3e0323122f340d29cf287b",
-"location": "San Jose, California, United States of America"
-}
-},
-"1519981295638413335": {
-"cid": "1514113369701875764",
-"ts": 1782462180.9816308,
-"job": {
-"id": "jobright:6a3e02fb8bfad862bc99ef54",
-"company": "Elevated Web Design",
-"title": "Software Engineering Internship - ML Team",
-"url": "https://jobright.ai/jobs/info/6a3e02fb8bfad862bc99ef54",
-"location": "United States"
-}
-},
-"1519981299157438497": {
-"cid": "1514113369701875764",
-"ts": 1782462181.860199,
-"job": {
-"id": "jobright:6a2064d84bdf8a5a96bd05e9",
-"company": "Ciena",
-"title": "Photonics Software Engineer Intern (12 Months, Fall 2026)",
-"url": "https://jobright.ai/jobs/info/6a2064d84bdf8a5a96bd05e9",
-"location": "Ottawa, Ontario, Canada"
-}
-},
-"1519981302546432060": {
-"cid": "1514113369701875764",
-"ts": 1782462182.5150652,
-"job": {
-"id": "jobright:6a210003ca8f0b365d7a4733",
-"company": "Bombardier",
-"title": "Intern, Business Intelligence Analyst (Fall 2026)",
-"url": "https://jobright.ai/jobs/info/6a210003ca8f0b365d7a4733",
-"location": "Dorval, Quebec, Canada"
-}
-},
 "1520058730908090371": {
 "cid": "1514116414494216242",
 "ts": 1782480643.0937796,
@@ -943,6 +800,39 @@
 "title": "Software Engineering Internship - WordPress App",
 "url": "https://jobright.ai/jobs/info/6a41ab2116b149395328449c",
 "location": "United States"
+}
+},
+"1521081084010303598": {
+"cid": "1514113369701875764",
+"ts": 1782724390.9681797,
+"job": {
+"id": "jobright:6a42163916b1493953284ed7",
+"company": "Nordson Corporation",
+"title": "Summer Intern - Software Engineer",
+"url": "https://jobright.ai/jobs/info/6a42163916b1493953284ed7",
+"location": "East Providence, RI"
+}
+},
+"1521081087114215524": {
+"cid": "1514113369701875764",
+"ts": 1782724391.5803878,
+"job": {
+"id": "jobright:6a420c6a16b1493953284e3c",
+"company": "Healthpeak Properties, Inc.",
+"title": "Forward Deployed Software Engineer Internship",
+"url": "https://jobright.ai/jobs/info/6a420c6a16b1493953284e3c",
+"location": "Irvine, CA"
+}
+},
+"1521081089722945596": {
+"cid": "1514113369701875764",
+"ts": 1782724392.2140243,
+"job": {
+"id": "jobright:6a420b741afc66714d3cba0f",
+"company": "Bybit",
+"title": "Java Development Engineer Intern",
+"url": "https://jobright.ai/jobs/info/6a420b741afc66714d3cba0f",
+"location": "APAC - Remote"
 }
 }
 }
