@@ -1,103 +1,4 @@
 {
-"1520058730908090371": {
-"cid": "1514116414494216242",
-"ts": 1782480643.0937796,
-"job": {
-"id": "jobright:6a3e55fa122f340d29cf30aa",
-"company": "TikTok",
-"title": "Software Engineer Intern (Business Integrity) - 2026 Summer (BS/MS)",
-"url": "https://jobright.ai/jobs/info/6a3e55fa122f340d29cf30aa",
-"location": "San Jose"
-}
-},
-"1520058734523453632": {
-"cid": "1514113369701875764",
-"ts": 1782480643.8286614,
-"job": {
-"id": "jobright:6a3e59248bfad862bc99f7ae",
-"company": "Primed",
-"title": "Software Engineer Internship",
-"url": "https://jobright.ai/jobs/info/6a3e59248bfad862bc99f7ae",
-"location": "Indiana, United States"
-}
-},
-"1520095898078547978": {
-"cid": "1514113369701875764",
-"ts": 1782489504.3021004,
-"job": {
-"id": "jobright:6a3e85e6122f340d29cf36d6",
-"company": "Envoy - HelloEnvoy",
-"title": "Software Engineer Intern (Fall 2026)",
-"url": "https://jobright.ai/jobs/info/6a3e85e6122f340d29cf36d6",
-"location": "San Francisco, CA"
-}
-},
-"1520095901253767321": {
-"cid": "1514113369701875764",
-"ts": 1782489505.8289876,
-"job": {
-"id": "jobright:6a3e855f8bfad862bc99fcb5",
-"company": "Siemens EDA (Siemens Digital Industries Software)",
-"title": "Strategic Student Program: Software Engineer Intern (Fall 2026; EBS)",
-"url": "https://jobright.ai/jobs/info/6a3e855f8bfad862bc99fcb5",
-"location": "Huntsville, AL"
-}
-},
-"1520095907427909705": {
-"cid": "1514113369701875764",
-"ts": 1782489506.623525,
-"job": {
-"id": "jobright:6a29f5e80c4972328e7e6906",
-"company": "Astranis Space Technologies",
-"title": "Software Engineer- Backend Intern (Fall 2026)",
-"url": "https://jobright.ai/jobs/info/6a29f5e80c4972328e7e6906",
-"location": "San Francisco, CA"
-}
-},
-"1520095910581764209": {
-"cid": "1514113369701875764",
-"ts": 1782489507.286249,
-"job": {
-"id": "jobright:6a3e7a8c4d047136e093639c",
-"company": "TDS Telecommunications LLC",
-"title": "IT Intern-Software Engineer",
-"url": "https://jobright.ai/jobs/info/6a3e7a8c4d047136e093639c",
-"location": "Remote, United States"
-}
-},
-"1520095913627091085": {
-"cid": "1514113369701875764",
-"ts": 1782489507.9056401,
-"job": {
-"id": "jobright:6a3e777e78237a036d5e40cc",
-"company": "Legacy.com",
-"title": "IT Intern-Software Engineer",
-"url": "https://jobright.ai/jobs/info/6a3e777e78237a036d5e40cc",
-"location": "Remote, United States"
-}
-},
-"1520095915824906333": {
-"cid": "1514113369701875764",
-"ts": 1782489508.476682,
-"job": {
-"id": "jobright:6a3e7636d261407de980328c",
-"company": "Walt Disney World",
-"title": "Commercial Data Science Intern, Fall 2026",
-"url": "https://jobright.ai/jobs/info/6a3e7636d261407de980328c",
-"location": "Lake Buena Vista, FL"
-}
-},
-"1520095918433636453": {
-"cid": "1514113369701875764",
-"ts": 1782489509.0158966,
-"job": {
-"id": "jobright:6a3e6a39122f340d29cf32a2",
-"company": "Walleye Capital",
-"title": "Quantic - Quantitative Researcher Intern (Summer 2027)",
-"url": "https://jobright.ai/jobs/info/6a3e6a39122f340d29cf32a2",
-"location": "Boston, MA"
-}
-},
 "1520126508998332466": {
 "cid": "1514116414494216242",
 "ts": 1782496802.6635141,
@@ -877,6 +778,182 @@
 "title": "Software Developer Internship",
 "url": "https://jobright.ai/jobs/info/6a42233ab526a24fc313271e",
 "location": "United States"
+}
+},
+"1521194561781633168": {
+"cid": "1514116414494216242",
+"ts": 1782751446.2003815,
+"job": {
+"id": "lever:palantir:4d29249a-d7e8-4c39-880d-3b35d7b2f6f6",
+"company": "Palantir",
+"title": "Forward Deployed Software Engineer, Internship - Commercial",
+"url": "https://jobs.lever.co/palantir/4d29249a-d7e8-4c39-880d-3b35d7b2f6f6",
+"location": "New York, NY"
+}
+},
+"1521194565133144127": {
+"cid": "1514116414494216242",
+"ts": 1782751446.8330853,
+"job": {
+"id": "lever:palantir:373eb939-6f57-4836-8479-be79a5e07249",
+"company": "Palantir",
+"title": "Software Engineer, Internship",
+"url": "https://jobs.lever.co/palantir/373eb939-6f57-4836-8479-be79a5e07249",
+"location": "Denver, CO"
+}
+},
+"1521194567733612695": {
+"cid": "1514116414494216242",
+"ts": 1782751447.468812,
+"job": {
+"id": "lever:palantir:7d69cf8a-06fd-4f05-bd84-27149db29c4d",
+"company": "Palantir",
+"title": "Software Engineer, Internship",
+"url": "https://jobs.lever.co/palantir/7d69cf8a-06fd-4f05-bd84-27149db29c4d",
+"location": "New York, NY"
+}
+},
+"1521194570476687483": {
+"cid": "1514116414494216242",
+"ts": 1782751448.1069844,
+"job": {
+"id": "lever:palantir:bdcfb29f-4f27-42de-933f-7f83a359b9f0",
+"company": "Palantir",
+"title": "Software Engineer, Internship",
+"url": "https://jobs.lever.co/palantir/bdcfb29f-4f27-42de-933f-7f83a359b9f0",
+"location": "Washington, D.C."
+}
+},
+"1521194572766642228": {
+"cid": "1514116414494216242",
+"ts": 1782751448.7721598,
+"job": {
+"id": "lever:palantir:e27af7ab-41fc-40c9-b31d-02c6cb1c505c",
+"company": "Palantir",
+"title": "Software Engineer, Internship",
+"url": "https://jobs.lever.co/palantir/e27af7ab-41fc-40c9-b31d-02c6cb1c505c",
+"location": "Palo Alto, CA"
+}
+},
+"1521194575899660619": {
+"cid": "1514116414494216242",
+"ts": 1782751449.4098456,
+"job": {
+"id": "lever:palantir:8bcf4f33-0a79-4248-bbfd-49ac4be9dd8e",
+"company": "Palantir",
+"title": "Software Engineer, Internship - Defense Tech",
+"url": "https://jobs.lever.co/palantir/8bcf4f33-0a79-4248-bbfd-49ac4be9dd8e",
+"location": "New York, NY"
+}
+},
+"1521194578496196721": {
+"cid": "1514116414494216242",
+"ts": 1782751450.0174198,
+"job": {
+"id": "lever:palantir:a483f41b-0da9-42ea-8ed6-cbf6eb93cc6d",
+"company": "Palantir",
+"title": "Software Engineer, Internship - Defense Tech",
+"url": "https://jobs.lever.co/palantir/a483f41b-0da9-42ea-8ed6-cbf6eb93cc6d",
+"location": "Palo Alto, CA"
+}
+},
+"1521194581390004434": {
+"cid": "1514116414494216242",
+"ts": 1782751450.8880103,
+"job": {
+"id": "lever:palantir:f17e98d0-046a-4e6e-9d65-ed0b12dd0ff7",
+"company": "Palantir",
+"title": "Software Engineer, Internship - Defense Tech",
+"url": "https://jobs.lever.co/palantir/f17e98d0-046a-4e6e-9d65-ed0b12dd0ff7",
+"location": "Washington, D.C."
+}
+},
+"1521194584762224793": {
+"cid": "1514116414494216242",
+"ts": 1782751451.545782,
+"job": {
+"id": "lever:palantir:b229baac-494b-4a0d-9a13-2e38806e06f3",
+"company": "Palantir",
+"title": "Software Engineer, Internship - Infrastructure",
+"url": "https://jobs.lever.co/palantir/b229baac-494b-4a0d-9a13-2e38806e06f3",
+"location": "New York, NY"
+}
+},
+"1521194587438186516": {
+"cid": "1514116414494216242",
+"ts": 1782751452.1601439,
+"job": {
+"id": "lever:palantir:f221738b-e97c-4ce3-a12a-17ada2b855e4",
+"company": "Palantir",
+"title": "Software Engineer, Internship - Infrastructure",
+"url": "https://jobs.lever.co/palantir/f221738b-e97c-4ce3-a12a-17ada2b855e4",
+"location": "Palo Alto, CA"
+}
+},
+"1521194590059892897": {
+"cid": "1514116414494216242",
+"ts": 1782751452.77017,
+"job": {
+"id": "lever:palantir:373367a9-3160-49d8-b7af-2efec062fad1",
+"company": "Palantir",
+"title": "Software Engineer, Internship - Production Infrastructure",
+"url": "https://jobs.lever.co/palantir/373367a9-3160-49d8-b7af-2efec062fad1",
+"location": "Seattle, WA"
+}
+},
+"1521194592903368785": {
+"cid": "1514116414494216242",
+"ts": 1782751453.6328235,
+"job": {
+"id": "lever:palantir:37964982-9b4c-471e-a1d8-fb8f45d7f116",
+"company": "Palantir",
+"title": "Software Engineer, Internship - Production Infrastructure",
+"url": "https://jobs.lever.co/palantir/37964982-9b4c-471e-a1d8-fb8f45d7f116",
+"location": "New York, NY"
+}
+},
+"1521194596502077460": {
+"cid": "1514116414494216242",
+"ts": 1782751454.4408057,
+"job": {
+"id": "lever:palantir:3ab9e715-1ea9-4c6c-ad50-7340eac14e86",
+"company": "Palantir",
+"title": "Software Engineer, Internship - Production Infrastructure",
+"url": "https://jobs.lever.co/palantir/3ab9e715-1ea9-4c6c-ad50-7340eac14e86",
+"location": "Washington, D.C."
+}
+},
+"1521194599933149295": {
+"cid": "1514113369701875764",
+"ts": 1782751455.2317584,
+"job": {
+"id": "jobright:6a427c4e1cc9cc2b12febbdf",
+"company": "Palantir Technologies",
+"title": "Forward Deployed Software Engineer, Internship - Commercial",
+"url": "https://jobright.ai/jobs/info/6a427c4e1cc9cc2b12febbdf",
+"location": "New York, NY"
+}
+},
+"1521194602986602559": {
+"cid": "1514113369701875764",
+"ts": 1782751455.9086,
+"job": {
+"id": "jobright:6a428fac6faf756060967180",
+"company": "North Carolina Department of Agriculture and Consumer Services",
+"title": "GIS Intern",
+"url": "https://jobright.ai/jobs/info/6a428fac6faf756060967180",
+"location": "400 Charles Zahn, Jr. Drive, Corpus Christi, TX"
+}
+},
+"1521194605838602423": {
+"cid": "1514113369701875764",
+"ts": 1782751456.5434108,
+"job": {
+"id": "jobright:6a4284eb6a9c2774b3fa64b2",
+"company": "Mark VII - Clean Cars\u00ae",
+"title": "Data Research & Validation Internship",
+"url": "https://jobright.ai/jobs/info/6a4284eb6a9c2774b3fa64b2",
+"location": "Arvada Office - Arvada, CO 80003"
 }
 }
 }
