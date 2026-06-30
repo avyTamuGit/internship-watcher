@@ -1175,5 +1175,38 @@
 "url": "https://jobright.ai/jobs/info/6a440cc50153061b8b3df122",
 "location": "4202 E Fowler Ave, Tampa, FL, 33620, US"
 }
+},
+"1521656801664438294": {
+"cid": "1514113369701875764",
+"ts": 1782861652.7262194,
+"job": {
+"id": "jobright:6a137e769fdbf21f36cb90de",
+"company": "VWH Capital Management, LP",
+"title": "Quantitative Researcher Intern",
+"url": "https://jobright.ai/jobs/info/6a137e769fdbf21f36cb90de",
+"location": "500 Crescent Ct, Dallas, TX 75201, USA"
+}
+},
+"1521656804637937677": {
+"cid": "1514113369701875764",
+"ts": 1782861653.4239984,
+"job": {
+"id": "jobright:6a442a76ef17a815538a33f3",
+"company": "tms",
+"title": "Decision Science Intern",
+"url": "https://jobright.ai/jobs/info/6a442a76ef17a815538a33f3",
+"location": "Chicago - 345 North Morgan"
+}
+},
+"1521656807716556941": {
+"cid": "1514113369701875764",
+"ts": 1782861654.0462074,
+"job": {
+"id": "jobright:6a4427ae105260150b72118d",
+"company": "Sedgwick",
+"title": "Data Analyst Intern",
+"url": "https://jobright.ai/jobs/info/6a4427ae105260150b72118d",
+"location": "Texas, United States"
+}
 }
 }
