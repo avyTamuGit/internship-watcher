@@ -1142,5 +1142,38 @@
 "url": "https://jobright.ai/jobs/info/6a43638dcbf92c7bcd37009a",
 "location": "US-TX-Dallas"
 }
+},
+"1521482294433546332": {
+"cid": "1514116414494216242",
+"ts": 1782820047.0928018,
+"job": {
+"id": "greenhouse:elastic:8023745",
+"company": "Elastic",
+"title": "Business Strategy Developer - International",
+"url": "https://jobs.elastic.co/jobs?gh_jid=8023745&gh_jid=8023745",
+"location": "The Netherlands"
+}
+},
+"1521482298372128868": {
+"cid": "1514113369701875764",
+"ts": 1782820047.848529,
+"job": {
+"id": "jobright:6a26f0e72056260dd6e84126",
+"company": "Ascend Learning",
+"title": "Software Engineer Intern",
+"url": "https://jobright.ai/jobs/info/6a26f0e72056260dd6e84126",
+"location": "Leawood, KS, US, 66211"
+}
+},
+"1521482301148627004": {
+"cid": "1514113369701875764",
+"ts": 1782820048.4293804,
+"job": {
+"id": "jobright:6a438d2d8208843cea1f1f4b",
+"company": "State of Tennessee",
+"title": "RESEARCH INTERN (FALL 2026) INTERN - 78884",
+"url": "https://jobright.ai/jobs/info/6a438d2d8208843cea1f1f4b",
+"location": "Davidson County, TN"
+}
 }
 }
