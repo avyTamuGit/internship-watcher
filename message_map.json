@@ -1043,5 +1043,38 @@
 "url": "https://jobright.ai/jobs/info/6a42d7616c326942b4e845d0",
 "location": "Mountain View, CA"
 }
+},
+"1521326570516648008": {
+"cid": "1514113369701875764",
+"ts": 1782782919.5197926,
+"job": {
+"id": "jobright:6a42e1496a9c2774b3fa7b32",
+"company": "Innovative Embedded Systems Pvt. Ltd. (SIIC IIT Kanpur).",
+"title": "Software QA Tester Intern/Co-op (Fall 2026)",
+"url": "https://jobright.ai/jobs/info/6a42e1496a9c2774b3fa7b32",
+"location": "Cambridge, MA"
+}
+},
+"1521326573570228305": {
+"cid": "1514113369701875764",
+"ts": 1782782920.1087677,
+"job": {
+"id": "jobright:6a42e4d9a5e15b106837a981",
+"company": "ABS Global Investments",
+"title": "Data Analyst Intern",
+"url": "https://jobright.ai/jobs/info/6a42e4d9a5e15b106837a981",
+"location": "Greenwich, CT"
+}
+},
+"1521326576099131422": {
+"cid": "1514113369701875764",
+"ts": 1782782920.7327807,
+"job": {
+"id": "jobright:6a42e07fa5e15b106837a8c9",
+"company": "Denver Health",
+"title": "Intern, Research Services",
+"url": "https://jobright.ai/jobs/info/6a42e07fa5e15b106837a8c9",
+"location": "Denver, CO"
+}
 }
 }
