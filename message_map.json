@@ -1142,5 +1142,38 @@
 "url": "https://jobright.ai/jobs/info/6a43f5b757ffc22029405c7e",
 "location": "Boca Raton,Florida,United States"
 }
+},
+"1521635802306576526": {
+"cid": "1514113369701875764",
+"ts": 1782856646.0618782,
+"job": {
+"id": "jobright:6a4420fc0153061b8b3df506",
+"company": "Semtech",
+"title": "Test Software Engineering Intern",
+"url": "https://jobright.ai/jobs/info/6a4420fc0153061b8b3df506",
+"location": "Alhambra, CA"
+}
+},
+"1521635805171417250": {
+"cid": "1514113369701875764",
+"ts": 1782856646.6396382,
+"job": {
+"id": "jobright:6a441099105260150b720b50",
+"company": "Island Facades",
+"title": "IT Intern - Software Engineering",
+"url": "https://jobright.ai/jobs/info/6a441099105260150b720b50",
+"location": "Boston, MA 02111, USA"
+}
+},
+"1521635807528489130": {
+"cid": "1514113369701875764",
+"ts": 1782856647.22009,
+"job": {
+"id": "jobright:6a440cc50153061b8b3df122",
+"company": "University of South Florida",
+"title": "IAE Computer Science Internship - Fall 2026",
+"url": "https://jobright.ai/jobs/info/6a440cc50153061b8b3df122",
+"location": "4202 E Fowler Ave, Tampa, FL, 33620, US"
+}
 }
 }
