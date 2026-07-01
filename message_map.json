@@ -1,26 +1,4 @@
 {
-"1520609100663099442": {
-"cid": "1514113369701875764",
-"ts": 1782611861.3736808,
-"job": {
-"id": "jobright:6a4062d9b526a24fc3130c69",
-"company": "Wall Street Quants",
-"title": "Quantitative Trader Intern",
-"url": "https://jobright.ai/jobs/info/6a4062d9b526a24fc3130c69",
-"location": "New York, NY"
-}
-},
-"1520609103750103150": {
-"cid": "1514113369701875764",
-"ts": 1782611861.9847195,
-"job": {
-"id": "jobright:6a0628236c07461fe171cece",
-"company": "Hitachi Rail",
-"title": "Business Analyst (Engineering) Intern (Fall 2026 / 8-12 months)",
-"url": "https://jobright.ai/jobs/info/6a0628236c07461fe171cece",
-"location": "Toronto, Ontario, Canada"
-}
-},
 "1520727012376051792": {
 "cid": "1514113369701875764",
 "ts": 1782639973.7281666,
@@ -1229,6 +1207,127 @@
 "title": "Analytics Intern",
 "url": "https://jobright.ai/jobs/info/6a4444b5b156014e414bc165",
 "location": "Cleveland, OH"
+}
+},
+"1521760330232103014": {
+"cid": "1514116414494216242",
+"ts": 1782886335.8176267,
+"job": {
+"id": "simplify:d559a72a-949b-419b-be16-82cae0e5b27a",
+"company": "Tesla",
+"title": "Thermal Controls Engineer Intern - Thermal Controls Engineer - Vehicle Controls",
+"url": "https://www.tesla.com/careers/search/job/275327",
+"location": "Palo Alto, CA"
+}
+},
+"1521760332962598926": {
+"cid": "1514116414494216242",
+"ts": 1782886336.5293856,
+"job": {
+"id": "simplify:77fe355c-f71a-4b4f-8ac1-348d2b156c64",
+"company": "Tesla",
+"title": "Machine Learning Engineer Intern - Machine Learning Engineer - Factory Software",
+"url": "https://www.tesla.com/careers/search/job/275380",
+"location": "Fremont, CA"
+}
+},
+"1521760336510713897": {
+"cid": "1514116414494216242",
+"ts": 1782886337.2514632,
+"job": {
+"id": "simplify:de258f68-480f-46d8-90eb-6a87d8ded565",
+"company": "Tesla",
+"title": "Data Engineer Intern - Applications Engineering",
+"url": "https://www.tesla.com/careers/search/job/272928",
+"location": "Fremont, CA"
+}
+},
+"1521760339283152947": {
+"cid": "1514116414494216242",
+"ts": 1782886337.8998423,
+"job": {
+"id": "simplify:3aadf7a9-d9ad-4c6e-a941-31641f852cdd",
+"company": "Tesla",
+"title": "AI/ML Modeling Engineer Intern - ML Modeling Engineer - AI Hardware",
+"url": "https://www.tesla.com/careers/search/job/275316",
+"location": "Palo Alto, CA"
+}
+},
+"1521760341850062919": {
+"cid": "1514116414494216242",
+"ts": 1782886338.5217588,
+"job": {
+"id": "simplify:234ddad0-78fe-4f76-b966-bb8bf98bcf47",
+"company": "Tesla",
+"title": "Inline Metrology Systems Design/Engineer Intern - Cell Engineering",
+"url": "https://www.tesla.com/careers/search/job/275335",
+"location": "Fremont, CA"
+}
+},
+"1521760344563912784": {
+"cid": "1514116414494216242",
+"ts": 1782886339.2015567,
+"job": {
+"id": "jobright:6a447510105260150b721f4a",
+"company": "Snap Finance",
+"title": "Analytics Intern",
+"url": "https://jobright.ai/jobs/info/6a447510105260150b721f4a",
+"location": "Texas, United States"
+}
+},
+"1521760347332022402": {
+"cid": "1514113369701875764",
+"ts": 1782886339.8223338,
+"job": {
+"id": "jobright:6a4489ae57ffc220294078ed",
+"company": "Deepiri",
+"title": "QA Software Developement Intern (Open Source, Summer 2026)",
+"url": "https://jobright.ai/jobs/info/6a4489ae57ffc220294078ed",
+"location": "United States"
+}
+},
+"1521760350213636156": {
+"cid": "1514113369701875764",
+"ts": 1782886340.6053493,
+"job": {
+"id": "jobright:6a447b3bef17a815538a41a1",
+"company": "Junior",
+"title": "Software Engineering Intern \u2014 Fall 2026",
+"url": "https://jobright.ai/jobs/info/6a447b3bef17a815538a41a1",
+"location": "New York, NY"
+}
+},
+"1521760353376276490": {
+"cid": "1514113369701875764",
+"ts": 1782886341.2569046,
+"job": {
+"id": "jobright:6a43436fc8bca56ab2246ef9",
+"company": "digest.pro",
+"title": "Intern .NET+Angular Developer",
+"url": "https://jobright.ai/jobs/info/6a43436fc8bca56ab2246ef9",
+"location": "Enterprise, NV"
+}
+},
+"1521760356169547889": {
+"cid": "1514113369701875764",
+"ts": 1782886341.940502,
+"job": {
+"id": "jobright:6a43435d4461bf091787b979",
+"company": "digest.pro",
+"title": "Intern Front-End Developer (Angular)",
+"url": "https://jobright.ai/jobs/info/6a43435d4461bf091787b979",
+"location": "Enterprise, NV"
+}
+},
+"1521760359008964740": {
+"cid": "1514113369701875764",
+"ts": 1782886342.6223154,
+"job": {
+"id": "jobright:6a433f3be09ecb4959643abb",
+"company": "digest.pro",
+"title": "Intern Python Developer",
+"url": "https://jobright.ai/jobs/info/6a433f3be09ecb4959643abb",
+"location": "Enterprise, NV"
 }
 }
 }
