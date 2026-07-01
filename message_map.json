@@ -1,26 +1,4 @@
 {
-"1520922254249033868": {
-"cid": "1514113369701875764",
-"ts": 1782686522.9697723,
-"job": {
-"id": "jobright:6a417fcbb526a24fc3131a5c",
-"company": "What's The Move",
-"title": "iOS Developer Intern",
-"url": "https://jobright.ai/jobs/info/6a417fcbb526a24fc3131a5c",
-"location": "United States"
-}
-},
-"1520922257101422704": {
-"cid": "1514113369701875764",
-"ts": 1782686523.6806197,
-"job": {
-"id": "jobright:6a417969b526a24fc31319fe",
-"company": "Axiom (YC W25)",
-"title": "Frontend Engineer / Frontend Intern",
-"url": "https://jobright.ai/jobs/info/6a417969b526a24fc31319fe",
-"location": "Austin, TX"
-}
-},
 "1521006674859655293": {
 "cid": "1514116414494216242",
 "ts": 1782706650.4129705,
@@ -1581,6 +1559,83 @@
 "title": "Quantitative Researcher - Intern",
 "url": "https://jobright.ai/jobs/info/6a4572614f64ba41dcb4d64a",
 "location": "New York"
+}
+},
+"1522018803246960921": {
+"cid": "1514116414494216242",
+"ts": 1782947960.5736725,
+"job": {
+"id": "simplify:87b3e2e9-6e48-46cf-a3ad-0144480aaea6",
+"company": "Tesla",
+"title": "Software Engineer Intern - Distributed Systems Software Engineer - Energy Engineering",
+"url": "https://www.tesla.com/careers/search/job/275558",
+"location": "Palo Alto, CA"
+}
+},
+"1522018805931573278": {
+"cid": "1514116414494216242",
+"ts": 1782947961.1377,
+"job": {
+"id": "simplify:5288f66e-452b-4ae7-a62d-12249dce5312",
+"company": "Tesla",
+"title": "Machine Learning Intern - AI Engineer - Tesla AI",
+"url": "https://www.tesla.com/careers/search/job/275331",
+"location": "Palo Alto, CA"
+}
+},
+"1522018808242634753": {
+"cid": "1514116414494216242",
+"ts": 1782947961.7619116,
+"job": {
+"id": "simplify:9a7e7535-216f-41a8-b35c-5005ec017d35",
+"company": "Tesla",
+"title": "Firmware Engineer Intern - Power Electronics Firmware Engineer - Energy Engineering",
+"url": "https://www.tesla.com/careers/search/job/275689",
+"location": "Palo Alto, CA"
+}
+},
+"1522018810662617188": {
+"cid": "1514113369701875764",
+"ts": 1782947962.3942177,
+"job": {
+"id": "jobright:6a457cc53dbab558e29a16e6",
+"company": "Teradyne",
+"title": "Software Engineering Intern (Teradyne, Agoura Hills)",
+"url": "https://jobright.ai/jobs/info/6a457cc53dbab558e29a16e6",
+"location": "Agoura Hills, California, USA"
+}
+},
+"1522018813363884157": {
+"cid": "1514113369701875764",
+"ts": 1782947963.035667,
+"job": {
+"id": "jobright:6a45795448d2f00f2a86daf2",
+"company": "London Computer Systems",
+"title": "Software Developer Co-op/Intern",
+"url": "https://jobright.ai/jobs/info/6a45795448d2f00f2a86daf2",
+"location": "Cincinnati, OH, US"
+}
+},
+"1522018816404754573": {
+"cid": "1514113369701875764",
+"ts": 1782947963.7182882,
+"job": {
+"id": "jobright:6a4577233dbab558e29a159f",
+"company": "Caterpillar Inc.",
+"title": "2027 Summer Corporate Intern \u2013 Digital and Analytics",
+"url": "https://jobright.ai/jobs/info/6a4577233dbab558e29a159f",
+"location": "Peoria, IL"
+}
+},
+"1522018818757759068": {
+"cid": "1514113369701875764",
+"ts": 1782947964.296438,
+"job": {
+"id": "jobright:6a4576edc2d11a6a4666943e",
+"company": "Duravant",
+"title": "Student Intern",
+"url": "https://jobright.ai/jobs/info/6a4576edc2d11a6a4666943e",
+"location": "Downers Grove, IL"
 }
 }
 }
