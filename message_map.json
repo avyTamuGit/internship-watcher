@@ -1,37 +1,4 @@
 {
-"1520576147962724352": {
-"cid": "1514113369701875764",
-"ts": 1782604004.7079437,
-"job": {
-"id": "jobright:6a4045fa16b14939532832d2",
-"company": "Marketeq Talent",
-"title": "Engineer Intern",
-"url": "https://jobright.ai/jobs/info/6a4045fa16b14939532832d2",
-"location": "United States"
-}
-},
-"1520576150512992296": {
-"cid": "1514113369701875764",
-"ts": 1782604005.3179586,
-"job": {
-"id": "jobright:69b0311edfaeda6ff5999f27",
-"company": "Techtronic Industries - TTI",
-"title": "Lab Power Platform Development Intern",
-"url": "https://jobright.ai/jobs/info/69b0311edfaeda6ff5999f27",
-"location": "Anderson, SC"
-}
-},
-"1520576153075712030": {
-"cid": "1514113369701875764",
-"ts": 1782604005.925208,
-"job": {
-"id": "jobright:6a4045f91afc66714d3c9d33",
-"company": "Marketeq Talent",
-"title": "Data Science & Automation Internship",
-"url": "https://jobright.ai/jobs/info/6a4045f91afc66714d3c9d33",
-"location": "United States"
-}
-},
 "1520609100663099442": {
 "cid": "1514113369701875764",
 "ts": 1782611861.3736808,
@@ -1207,6 +1174,61 @@
 "title": "Data Analyst Intern",
 "url": "https://jobright.ai/jobs/info/6a4427ae105260150b72118d",
 "location": "Texas, United States"
+}
+},
+"1521692016642101250": {
+"cid": "1514113369701875764",
+"ts": 1782870049.8392727,
+"job": {
+"id": "jobright:6a4459f8b156014e414bc49a",
+"company": "Gumloop",
+"title": "Design Engineer Intern",
+"url": "https://jobright.ai/jobs/info/6a4459f8b156014e414bc49a",
+"location": "San Francisco Office"
+}
+},
+"1521692024670126234": {
+"cid": "1514113369701875764",
+"ts": 1782870050.434841,
+"job": {
+"id": "jobright:6a444af30153061b8b3e008e",
+"company": "Stealth Startup",
+"title": "Full Stack Engineering Intern",
+"url": "https://jobright.ai/jobs/info/6a444af30153061b8b3e008e",
+"location": "United States"
+}
+},
+"1521692027207680187": {
+"cid": "1514113369701875764",
+"ts": 1782870051.1577704,
+"job": {
+"id": "jobright:6a4445c1105260150b721879",
+"company": "Mujin US",
+"title": "Intern - Software Development (Spring 2027)",
+"url": "https://jobright.ai/jobs/info/6a4445c1105260150b721879",
+"location": "Suwanee, Georgia, United States"
+}
+},
+"1521692029942501530": {
+"cid": "1514113369701875764",
+"ts": 1782870051.7540545,
+"job": {
+"id": "jobright:6a4445bf0153061b8b3dff72",
+"company": "Mujin US",
+"title": "Intern - Software Integration (Spring 2027)",
+"url": "https://jobright.ai/jobs/info/6a4445bf0153061b8b3dff72",
+"location": "Suwanee, Georgia, United States"
+}
+},
+"1521692032681115729": {
+"cid": "1514113369701875764",
+"ts": 1782870052.3225412,
+"job": {
+"id": "jobright:6a4444b5b156014e414bc165",
+"company": "thyssenkrupp Materials NA",
+"title": "Analytics Intern",
+"url": "https://jobright.ai/jobs/info/6a4444b5b156014e414bc165",
+"location": "Cleveland, OH"
 }
 }
 }
