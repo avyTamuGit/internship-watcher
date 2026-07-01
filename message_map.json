@@ -1,26 +1,4 @@
 {
-"1520885541133095005": {
-"cid": "1514113369701875764",
-"ts": 1782677769.8381164,
-"job": {
-"id": "jobright:6a415e1a3bfa967791ec0ef3",
-"company": "Elevated Web Design",
-"title": "Software Engineering Internship - WordPress Plugin",
-"url": "https://jobright.ai/jobs/info/6a415e1a3bfa967791ec0ef3",
-"location": "United States"
-}
-},
-"1520885544069107832": {
-"cid": "1514113369701875764",
-"ts": 1782677770.5168726,
-"job": {
-"id": "jobright:6a416149b526a24fc31318d9",
-"company": "Marketeq Talent",
-"title": "AI & Data Science Internship",
-"url": "https://jobright.ai/jobs/info/6a416149b526a24fc31318d9",
-"location": "United States"
-}
-},
 "1520922254249033868": {
 "cid": "1514113369701875764",
 "ts": 1782686522.9697723,
@@ -1537,6 +1515,72 @@
 "title": "Data Analysis Specialist Intern",
 "url": "https://jobright.ai/jobs/info/6a45120c9b6dfb6da322c092",
 "location": "Mesquite, TX"
+}
+},
+"1521997148932280540": {
+"cid": "1514113369701875764",
+"ts": 1782942797.7523105,
+"job": {
+"id": "jobright:6a4572614f64ba41dcb4d649",
+"company": "Seven Research, LLC",
+"title": "Core Developer - Intern",
+"url": "https://jobright.ai/jobs/info/6a4572614f64ba41dcb4d649",
+"location": "New York"
+}
+},
+"1521997151368904887": {
+"cid": "1514113369701875764",
+"ts": 1782942798.4090977,
+"job": {
+"id": "jobright:6a45726148d2f00f2a86d969",
+"company": "Seven Research, LLC",
+"title": "Algorithmic Developer - Intern",
+"url": "https://jobright.ai/jobs/info/6a45726148d2f00f2a86d969",
+"location": "New York"
+}
+},
+"1521997154560774185": {
+"cid": "1514113369701875764",
+"ts": 1782942799.0960362,
+"job": {
+"id": "jobright:6a42ae8d6faf7560609678ea",
+"company": "MNJ SOFTWARE",
+"title": "UI Developer Intern",
+"url": "https://jobright.ai/jobs/info/6a42ae8d6faf7560609678ea",
+"location": "Remote (Work From Home)"
+}
+},
+"1521997157161504891": {
+"cid": "1514113369701875764",
+"ts": 1782942799.7039094,
+"job": {
+"id": "jobright:6a456019c2d11a6a46668fed",
+"company": "Olivia",
+"title": "Software Engineering Intern \u2014 Full-Stack / AI Product",
+"url": "https://jobright.ai/jobs/info/6a456019c2d11a6a46668fed",
+"location": "Canada"
+}
+},
+"1521997159342280735": {
+"cid": "1514113369701875764",
+"ts": 1782942800.3434572,
+"job": {
+"id": "jobright:6a455cbd4f64ba41dcb4d24a",
+"company": "Mobius Renewables",
+"title": "Software Engineer - Intern",
+"url": "https://jobright.ai/jobs/info/6a455cbd4f64ba41dcb4d24a",
+"location": "Houston, TX"
+}
+},
+"1521997162664165386": {
+"cid": "1514113369701875764",
+"ts": 1782942801.1412246,
+"job": {
+"id": "jobright:6a4572614f64ba41dcb4d64a",
+"company": "Seven Research, LLC",
+"title": "Quantitative Researcher - Intern",
+"url": "https://jobright.ai/jobs/info/6a4572614f64ba41dcb4d64a",
+"location": "New York"
 }
 }
 }
