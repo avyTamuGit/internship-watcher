@@ -1395,5 +1395,148 @@
 "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4823924101",
 "location": "Chicago, United States"
 }
+},
+"1521972118206677014": {
+"cid": "1514116414494216242",
+"ts": 1782936829.958773,
+"job": {
+"id": "greenhouse:andurilindustries:5177202007",
+"company": "Anduril",
+"title": "Proposals Senior Analyst, International",
+"url": "https://boards.greenhouse.io/andurilindustries/jobs/5177202007?gh_jid=5177202007",
+"location": "Washington, District of Columbia, United States"
+}
+},
+"1521972120790237384": {
+"cid": "1514116414494216242",
+"ts": 1782936830.5729167,
+"job": {
+"id": "greenhouse:optiverus:8402215002",
+"company": "Optiver",
+"title": "Quantitative Intern (Summer 2027)",
+"url": "https://www.optiver.com/join-us/jobs/8402215002/?gh_jid=8402215002",
+"location": "Chicago, Illinois, United States"
+}
+},
+"1521972123294503133": {
+"cid": "1514116414494216242",
+"ts": 1782936831.1454341,
+"job": {
+"id": "greenhouse:optiverus:8451782002",
+"company": "Optiver",
+"title": "Quantitative Research Intern, PhD (Summer 2027)",
+"url": "https://www.optiver.com/join-us/jobs/8451782002/?gh_jid=8451782002",
+"location": "Austin, Texas, United States"
+}
+},
+"1521972125798367335": {
+"cid": "1514116414494216242",
+"ts": 1782936831.7478623,
+"job": {
+"id": "greenhouse:optiverus:8451781002",
+"company": "Optiver",
+"title": "Quantitative Research Intern, PhD (Summer 2027)",
+"url": "https://www.optiver.com/join-us/jobs/8451781002/?gh_jid=8451781002",
+"location": "Chicago, Illinois, United States"
+}
+},
+"1521972127803248691": {
+"cid": "1514116414494216242",
+"ts": 1782936832.302168,
+"job": {
+"id": "greenhouse:optiverus:8401052002",
+"company": "Optiver",
+"title": "Software Engineer Intern (Summer 2027 - Austin)",
+"url": "https://www.optiver.com/join-us/jobs/8401052002/?gh_jid=8401052002",
+"location": "Austin, Texas, United States"
+}
+},
+"1521972130621816965": {
+"cid": "1514116414494216242",
+"ts": 1782936832.9001393,
+"job": {
+"id": "greenhouse:optiverus:8604760002",
+"company": "Optiver",
+"title": "Software Engineer Intern (Summer 2027 - Chicago)",
+"url": "https://www.optiver.com/join-us/jobs/8604760002/?gh_jid=8604760002",
+"location": "Chicago, Illinois, United States"
+}
+},
+"1521972133264359434": {
+"cid": "1514116414494216242",
+"ts": 1782936833.544585,
+"job": {
+"id": "jobright:6a4556470dd56c76cc2f310f",
+"company": "NVIDIA AI",
+"title": "Java Engineering Intern - Fall 2026",
+"url": "https://jobright.ai/jobs/info/6a4556470dd56c76cc2f310f",
+"location": "Santa Clara, CA"
+}
+},
+"1521972136191987843": {
+"cid": "1514113369701875764",
+"ts": 1782936834.3914542,
+"job": {
+"id": "jobright:6a45584748d2f00f2a86d484",
+"company": "Mujin",
+"title": "Intern - Software Integration (Spring 2027)",
+"url": "https://jobright.ai/jobs/info/6a45584748d2f00f2a86d484",
+"location": "Suwanee, GA, US"
+}
+},
+"1521972139207688224": {
+"cid": "1514113369701875764",
+"ts": 1782936834.9597774,
+"job": {
+"id": "jobright:6a45579748d2f00f2a86d432",
+"company": "Mujin",
+"title": "Intern - Software Development (Spring 2027)",
+"url": "https://jobright.ai/jobs/info/6a45579748d2f00f2a86d432",
+"location": "Suwanee, GA, US"
+}
+},
+"1521972141241663621": {
+"cid": "1514113369701875764",
+"ts": 1782936835.527771,
+"job": {
+"id": "jobright:6a45529f971cd25b06f88751",
+"company": "Bombardier",
+"title": "Intern, Data Management Analyst (Fall 2026)",
+"url": "https://jobright.ai/jobs/info/6a45529f971cd25b06f88751",
+"location": "Dorval, Quebec, Canada"
+}
+},
+"1521972143754186834": {
+"cid": "1514113369701875764",
+"ts": 1782936836.1793358,
+"job": {
+"id": "jobright:6a4546e5c2d11a6a46668a2e",
+"company": "Alto",
+"title": "Intern, Data Analysis Job Details / VIA HFR - VIA TGF Inc",
+"url": "https://jobright.ai/jobs/info/6a4546e5c2d11a6a46668a2e",
+"location": "Montreal, Qu\u00e9bec, Canada"
+}
+},
+"1521972146719690974": {
+"cid": "1514113369701875764",
+"ts": 1782936836.7950664,
+"job": {
+"id": "jobright:6a4525a43dbab558e29a04e5",
+"company": "Duravant",
+"title": "Intern - Data",
+"url": "https://jobright.ai/jobs/info/6a4525a43dbab558e29a04e5",
+"location": "Downers Grove, IL"
+}
+},
+"1521972149601042522": {
+"cid": "1514113369701875764",
+"ts": 1782936837.442713,
+"job": {
+"id": "jobright:6a45120c9b6dfb6da322c092",
+"company": "Canadian Solar Inc.",
+"title": "Data Analysis Specialist Intern",
+"url": "https://jobright.ai/jobs/info/6a45120c9b6dfb6da322c092",
+"location": "Mesquite, TX"
+}
 }
 }
