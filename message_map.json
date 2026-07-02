@@ -1637,5 +1637,49 @@
 "url": "https://jobright.ai/jobs/info/6a4576edc2d11a6a4666943e",
 "location": "Downers Grove, IL"
 }
+},
+"1522051415596339310": {
+"cid": "1514116414494216242",
+"ts": 1782955735.9773858,
+"job": {
+"id": "jobright:6a458b4c971cd25b06f89272",
+"company": "Tesla",
+"title": "Internship, Distributed Systems Software Engineer, Energy Engineering (Fall 2026)",
+"url": "https://jobright.ai/jobs/info/6a458b4c971cd25b06f89272",
+"location": "Palo Alto, CA"
+}
+},
+"1522051418368774417": {
+"cid": "1514113369701875764",
+"ts": 1782955736.8562703,
+"job": {
+"id": "jobright:6a4596ffc2d11a6a46669acb",
+"company": "Frontier Airlines",
+"title": "Intern - IT Cloud Engineer",
+"url": "https://jobright.ai/jobs/info/6a4596ffc2d11a6a46669acb",
+"location": "Denver, Colorado, United States"
+}
+},
+"1522051421917286691": {
+"cid": "1514113369701875764",
+"ts": 1782955737.468328,
+"job": {
+"id": "jobright:6a458b10c2d11a6a46669843",
+"company": "Restaurant Technologies",
+"title": "IT Intern",
+"url": "https://jobright.ai/jobs/info/6a458b10c2d11a6a46669843",
+"location": "Mendota Heights, Minnesota, United States"
+}
+},
+"1522051424735723520": {
+"cid": "1514113369701875764",
+"ts": 1782955738.1013694,
+"job": {
+"id": "jobright:6a45899b0dd56c76cc2f3ba2",
+"company": "Electronic Arts (EA)",
+"title": "Rendering Software Engineer Intern - FALL 2026",
+"url": "https://jobright.ai/jobs/info/6a45899b0dd56c76cc2f3ba2",
+"location": "Orlando, Florida, United States of America"
+}
 }
 }
